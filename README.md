@@ -18,7 +18,8 @@
 
 <p align="center">
 <img src="https://github.com/coolcode17/first-year-pc-components-store-website/blob/main/%D1%81%D0%B0%D0%B9%D1%82%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82.PNG" width="600">
-СКРИНШОТ 1 ГЛАВНАЯ СТРАНИЦА</p>
+СКРИНШОТ 1 ГЛАВНАЯ СТРАНИЦА
+</p>
 
 <p align="center">
 СКРИНШОТЫ КАТАЛОГА ТОВАРОВ
@@ -34,5 +35,5 @@
 
 О ФИРМЕ
 <p align="center">
-<img src="https://github.com/coolcode17/first-year-pc-components-store-website/blob/main/%D1%81%D0%B0%D0%B9%D1%82%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%825.PNG" width="600">
+<img src="https://github.com/coolcode17/first-year-pc-components-store-website/blob/main/%D1%81%D0%B0%D0%B9%D1%82%20%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%826.PNG" width="600">
 </p>
